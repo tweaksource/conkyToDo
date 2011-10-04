@@ -58,3 +58,7 @@ The C# Monodevelop project is in the ToDo folder. The current executable is in T
 The Java source file and compiled class file are in the Java folder.
 The class file can be run with the command:
 	java ToDo.
+
+The net folder contains the Swing Miglayout files and is required for the current layout of the GUI.
+MigLayout is THE Layout manager for Java. is dual-licensed under the BSD or GPL. the latest version can be found here:
+http://www.migcalendar.com/miglayout/versions/
