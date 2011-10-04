@@ -25,12 +25,10 @@
 //***********************************************************************
 
 This is really just a conkyrc config which is 
-configured to display the contents of a ToDo list. 
-I realize that you can just open the text file and 
-edit it in a number of ways, cli or gui, but I 
-wanted to have a simple C# project to get familiar 
-with GTK#/Mono. I have included a similar Java Swing app as well.
-My hope is simply that someone will find it useful.
+configured to display the contents of a ToDo list from a simple text file on your desktop. 
+I realize that you can just open the text file and edit it in a number of ways, cli or gui, but I 
+wanted to have a simple C# project to get familiar with GTK#/Mono. I have included a similar Java Swing 
+app as well. My hope is simply that someone will find it useful.
 
 Requirements:
 -------------
@@ -54,6 +52,7 @@ Instructions for Editors:
 The C# Monodevelop project is in the ToDo folder. The current executable is in ToDo/ToDo/bin/Release/.
  The .exe can be run with the following command:
 	mono ToDo.exe
+http://monodevelop.com/
 
 The Java source file and compiled class file are in the Java folder.
 The class file can be run with the command:
