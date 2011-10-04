@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo", "ToDo\ToDo.csproj", "{A077BAB5-BE13-42FE-89A0-783E98FE3FE8}"
+EndProject
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "Packages", "Packages.mdproj", "{635AB2B8-DE2D-4672-B920-1E76DB8797CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635AB2B8-DE2D-4672-B920-1E76DB8797CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{635AB2B8-DE2D-4672-B920-1E76DB8797CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A077BAB5-BE13-42FE-89A0-783E98FE3FE8}.Debug|x86.ActiveCfg = Debug|x86
+		{A077BAB5-BE13-42FE-89A0-783E98FE3FE8}.Debug|x86.Build.0 = Debug|x86
+		{A077BAB5-BE13-42FE-89A0-783E98FE3FE8}.Release|x86.ActiveCfg = Release|x86
+		{A077BAB5-BE13-42FE-89A0-783E98FE3FE8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ToDo\ToDo.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.StandardHeader = $3
+		$3.inheritsSet = GPLv2License
+		description = @A very simple file editor written in C#/Gtk# using Mono on Ubuntu.\n
+	EndGlobalSection
+EndGlobal

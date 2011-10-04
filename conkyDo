@@ -1,0 +1,4 @@
+#!/bin/bash
+## run todo list editor
+
+sleep 5 && cd ~/.conky/conky-tweak/ && java Todo
